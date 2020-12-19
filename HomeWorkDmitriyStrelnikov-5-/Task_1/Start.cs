@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Task_1
@@ -13,7 +14,7 @@ namespace Task_1
         public void Enter()
         {
 
-            Console.WriteLine("Введите логин: ");
+            Console.Write("Введите логин: ");
             string _login = Console.ReadLine();
             login = _login;
 
@@ -31,7 +32,7 @@ namespace Task_1
                     {
                         for (int a = 0; a < login.Length; a++)
                         {
-                            if (login[a] >= 'a' && login[a] <= 'z' || login[a] >= '0' && login[a] <= '9')
+                            if (login[a] >= 'A' && login[a] <= 'Z' || login[a] >= 'a' && login[a] <= 'z' || login[a] >= '0' && login[a] <= '9')
                             {
 
                             }
@@ -57,6 +58,42 @@ namespace Task_1
                 }
             }
 
+        }
+
+        public void ChekReg()
+        {
+            bool i = true;
+            while (i)
+            {
+                Enter();
+                Regex myReg = new Regex(@"^[a-z]+[a-z0-9]{1,9}$", RegexOptions.IgnoreCase | RegexOptions.Compiled);
+                if (myReg.IsMatch(login))
+                {
+                    Console.WriteLine("Логин введен верно!");
+                }
+                else
+                {
+                    Console.WriteLine("1. Логин должен состоять от 2 до 10 символов." +
+                        "\n2. Только из цифр и латинских букв. " +
+                        "\n3. Первая буква Латинская");
+                }
+            }
+        }
+        public void Option()
+        {
+            Console.WriteLine("Выбериет один вариант:" +
+                "\n1. Без использования регулярных выражений." +
+                "\n2. С использованием регулярных выражени ");
+            byte a = byte.Parse(Console.ReadLine());
+            switch (a)
+            {
+                case 1:
+                    Chek();
+                    break;
+                case 2:
+                    ChekReg();
+                    break;
+            }
         }
     }
 }

@@ -10,6 +10,8 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
+            var a = new Start();
+            a.Chek();
         }
     }
 }

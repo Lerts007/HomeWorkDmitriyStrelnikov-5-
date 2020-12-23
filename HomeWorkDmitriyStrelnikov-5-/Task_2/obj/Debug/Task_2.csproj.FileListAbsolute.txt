@@ -1,0 +1,7 @@
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\bin\Debug\Task_2.exe.config
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\bin\Debug\Task_2.exe
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\bin\Debug\Task_2.pdb
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\obj\Debug\Task_2.exe
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_2\obj\Debug\Task_2.pdb

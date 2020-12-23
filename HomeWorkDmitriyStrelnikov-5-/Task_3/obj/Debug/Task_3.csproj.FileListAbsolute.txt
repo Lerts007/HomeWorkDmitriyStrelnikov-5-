@@ -1,0 +1,6 @@
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\bin\Debug\Task_3.exe.config
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\bin\Debug\Task_3.exe
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\bin\Debug\Task_3.pdb
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\obj\Debug\Task_3.exe
+D:\Geekbrains\Основы языка C#\HomeWorkDmitriyStrelnikov-5-\HomeWorkDmitriyStrelnikov-5-\Task_3\obj\Debug\Task_3.pdb
